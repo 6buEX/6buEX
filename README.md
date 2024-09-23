@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ### 👋 Hi, I’m @Xu6buE
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-=======
+
 <div align="center">
 
   <!-- knock code pictures 敲代码的图片 -->
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <p>&emsp;&emsp;I'm passionate about programming, photography, reading, and traveling.</p>
 <p>&emsp;&emsp;I have a deep love for computer science and cyber security, aspiring to become a skilled and dedicated tech enthusiast.</p>
 <p>&emsp;&emsp;Together, we're making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-
+<p>&emsp;&emsp;</p>
 
 </td></tr>
 
@@ -110,4 +110,3 @@ Here are some ideas to get you started:
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 </div>
->>>>>>> 72fd7c6 (Initial commit)
