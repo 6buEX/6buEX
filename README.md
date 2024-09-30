@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### 🤺 About Me
 
-<p>&emsp;&emsp;Hi, I'm 6buEX.</p>
+<p>&emsp;&emsp;Hi, I'm 6buEXU.</p>
 <p>&emsp;&emsp;I'm passionate about programming, photography, reading, and traveling.</p>
 <p>&emsp;&emsp;I have a deep love for computer science and cyber security, aspiring to become a skilled and dedicated tech enthusiast.</p>
 <p>&emsp;&emsp;Together, we're making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</p>
